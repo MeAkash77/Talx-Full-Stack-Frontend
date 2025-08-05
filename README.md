@@ -1,5 +1,5 @@
 # 🌟 Talx - The AI-Powered Job Portal 🚀  
-🌐 [Visit Talx](https://talx.vercel.app)  
+🌐 [Visit Talx](https://talx-full-stack-frontend.vercel.app/)  
 
 **Talx** is an innovative web application designed to streamline job searching, posting, and career guidance. It serves as a powerful platform for job posters, applicants, and individuals seeking career insights. With a modern, responsive design and AI-driven functionalities, Talx offers an enhanced user experience tailored for today's job market.  
 
