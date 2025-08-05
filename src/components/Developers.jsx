@@ -63,7 +63,7 @@ const DeveloperSection = () => {
       designation: "Full Stack Website",
       image: AbhayImg,
       githubLink: "https://github.com/MeAkash77",
-      linkedinLink: "https://www.linkedin.com/in/abhay-dixit-546b85254"
+      linkedinLink: "https://www.linkedin.com/in/me-akash77/"
     }
   ];
 
