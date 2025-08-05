@@ -1,89 +1,107 @@
-# 🌟 Talx - The AI-Powered Job Portal 🚀  
-[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)](https://talx-full-stack-frontend.vercel.app/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/aakashdixit22/talx-frontend/blob/main/LICENSE)  
-[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev)  
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen?logo=node.js)](https://nodejs.org)  
-[![Flask](https://img.shields.io/badge/AI%20Backend-Flask-blue?logo=flask)](https://flask.palletsprojects.com/)  
+<div align="center">
 
-🌐 **Live App**: [https://talx-full-stack-frontend.vercel.app](https://talx-full-stack-frontend.vercel.app)  
+# 🌟 Talx – The AI-Powered Job Portal 🚀
 
-**Talx** is a full-stack, AI-powered job portal that connects recruiters and applicants through intelligent automation, streamlined workflows, and smart career tools. Explore job listings, apply seamlessly, post jobs, and leverage AI to analyze resumes and get career insights — all in one place.
+[![Website](https://img.shields.io/badge/🌐_Live-Talx-blueviolet?style=for-the-badge)](https://talx-full-stack-frontend.vercel.app/)
+[![GitHub stars](https://img.shields.io/github/stars/MeAkash77/Talx-Full-Stack-Frontend?style=for-the-badge&logo=github&color=gold)](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MeAkash77/Talx-Full-Stack-Frontend?style=for-the-badge&logo=github&color=blue)](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/network)
+[![GitHub issues](https://img.shields.io/github/issues/MeAkash77/Talx-Full-Stack-Frontend?style=for-the-badge&logo=github&color=red)](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/issues)
+[![GitHub license](https://img.shields.io/github/license/MeAkash77/Talx-Full-Stack-Frontend?style=for-the-badge&logo=opensourceinitiative&color=yellow)](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/blob/main/LICENSE)
 
----
+**An all-in-one career platform to post, apply, analyze resumes, and get job insights — all AI-powered and modernly designed.**
 
-## ✨ Features  
+[🔗 Live Demo](https://talx-full-stack-frontend.vercel.app/) | [🐛 Report Bug](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/issues) | [💡 Request Feature](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/issues)
 
-### 🔧 Core Functionalities
-- 📝 **Post, Edit & Manage Jobs**  
-- 📄 **Apply with Resume & Cover Letter Uploads**  
-- 📊 **Export Applications as Excel Sheets**  
-- 👨‍💼 **Recruiter Dashboard for Applicant Management**  
-
-### 💡 AI-Powered Features
-- 🤖 **Chat Assistant (LLaMA 3.3 via Groq)**  
-- 📄 **ResumeAI (Gemini Flash 2.0)**  
-- 📰 **BulletinBuzz (Live News from NewsAPI)**  
-
-### 🎨 UI & UX
-- ⚡ Powered by **Vite + React + TailwindCSS**  
-- 🎞️ Beautiful animations using **Framer Motion**  
-- 🧩 Markdown, Excel export, and Blob for downloads  
-- 🧑‍💻 Fully responsive design  
+</div>
 
 ---
 
-## 🖼️ Preview Gallery
+## ✨ Features
 
-| Homepage & Explore Jobs | ResumeAI in Action |
-|:------------------------:|:------------------:|
-| ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_1.png?raw=true) | ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/ResumeAI_GIF.gif?raw=true) |
+### 🌐 Core Features  
+- 📝 **Job Posting & Management**  
+  - Post, view, edit, delete jobs  
+  - Download applicant data as Excel  
 
-| My Jobs & Edit Modal | BulletinBuzz & Chat Assistant |
-|:--------------------:|:------------------------------:|
-| ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_2.png?raw=true) | ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_3.png?raw=true) |
+- 🔍 **Job Application System**  
+  - Browse jobs  
+  - Apply by uploading resumes  
+  - View past applications  
+
+- 👤 **Applicant Management**  
+  - View applicant data per job  
+  - Download resumes and cover letters  
+
+### 🌟 Innovative AI Features  
+- 📰 **BulletinBuzz** – Curated tech, sports, and business news  
+- 🤖 **Chat Assistant AI** – Instant support, guidance, and job help  
+- 📄 **ResumeAI** – Upload and get AI-based resume analysis and job matching  
+
+### 💻 UI Highlights  
+- 💡 Modern animations with Framer Motion  
+- 🌙 Light/Dark mode support  
+- 📱 Fully responsive design  
 
 ---
 
-## 🛠️ Tech Stack  
+## 📸 Screenshots
+
+### 🌐 Homepage & Explore Jobs  
+![Homepage and Explore Jobs](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_1.png?raw=true)  
+
+### ✏️ Post Job & My Jobs with Edit Modal  
+![Post Job and My Jobs with Edit Modal](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_2.png?raw=true)  
+
+### 📰 BulletinBuzz & 🤖 Chat Assistant  
+![BulletinBuzz and Chat Assistant](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_3.png?raw=true)  
+
+### 📄 ResumeAI in Action  
+![ResumeAI Working](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/ResumeAI_GIF.gif?raw=true)  
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### 🎨 Frontend  
-- ⚛️ **React** + **Vite**  
-- 🎨 **Tailwind CSS**  
-- 🔀 **Framer Motion** (animations)  
-- 📥 **Blob**, **XLSX**, **Markdown Renderer**  
-- 🌍 Deployed via **Vercel**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
 
 ### 🖥️ Backend  
-- 🟩 **Node.js + Express**  
-- 🍃 **MongoDB + Mongoose**  
-- 🔐 **JWT & Bcrypt**  
-- 📤 **Multer** (uploads)  
-- ✉️ **NodeMailer**  
-- 📰 **NewsAPI Integration**  
-- 🕒 **Node-Cron** (server uptime pings)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)
 
-### 🧠 AI Backend  
-- 🐍 **Flask (Python)**  
-- 🧠 **LLaMA 3.3 via Groq API**  
-- 🤖 **Gemini 2.0 Flash (Google AI)**  
-- ⚡ Streaming & Fast AI responses  
+### 🤖 AI Services  
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Gemini](https://img.shields.io/badge/Gemini_AI-ff4088?style=for-the-badge&logo=google)
+![Groq](https://img.shields.io/badge/Groq_LLM-7c3aed?style=for-the-badge)
+
+</div>
 
 ---
 
-## ⚙️ Installation & Setup  
+## 🚀 Installation
 
-### 🔧 Prerequisites  
-- Node.js  
-- MongoDB  
-- Python 3.x  
+### 🔧 Prerequisites
+- Node.js >= 18
+- MongoDB Atlas or local
+- Python 3.10+
+- Vite
 
 ---
 
-### 💻 Frontend
+### 📥 Setup Instructions
+
+#### ✅ Frontend Setup
 
 ```bash
 git clone https://github.com/MeAkash77/Talx-Full-Stack-Frontend.git
-cd Talx-Full-Stack-Frontend
+cd talx-frontend
 npm install
 
 
