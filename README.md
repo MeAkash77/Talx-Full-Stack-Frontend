@@ -125,11 +125,11 @@
 
 #### Backend  
 1. Follow the instructions in the backend repository:  
-   [Talx Backend Repository](https://github.com/aakashdixit22/talx-backend)  
+   [Talx Backend Repository](https://github.com/MeAkash77/Talx-Backend.git)  
 
 #### AI Backend  
 1. Follow the instructions in the AI backend repository:  
-   [Talx AI Backend Repository](https://github.com/aakashdixit22/talx-api)  
+   [Talx AI Backend Repository](https://github.com/MeAkash77/Talx-Api.git)  
 
 ---
 
@@ -148,9 +148,9 @@ For issues or queries, feel free to open an issue on the respective repository o
 
 ## 📂 Repositories  
 
-- **Frontend**: [Talx Frontend](https://github.com/aakashdixit22/talx-frontend)  
-- **Backend**: [Talx Backend](https://github.com/aakashdixit22/talx-backend)  
-- **AI Backend**: [Talx AI Backend](https://github.com/aakashdixit22/talx-api)  
+- **Frontend**: [Talx Frontend](https://github.com/MeAkash77/Talx-Full-Stack-Frontend)  
+- **Backend**: [Talx Backend](https://github.com/MeAkash77/Talx-Backend.git)  
+- **AI Backend**: [Talx AI Backend](https://github.com/MeAkash77/Talx-Api.git)  
 
 ---  
 
