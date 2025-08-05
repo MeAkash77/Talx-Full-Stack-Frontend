@@ -2,6 +2,29 @@
 
 # 🌟 Talx – The AI-Powered Job Portal 🚀
 
+<div align="center">
+
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
+
+### 🖥️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)
+
+### 🤖 AI Services  
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Gemini](https://img.shields.io/badge/Gemini_AI-ff4088?style=for-the-badge&logo=google)
+![Groq](https://img.shields.io/badge/Groq_LLM-7c3aed?style=for-the-badge)
+
+</div>
+
+---
+
 [![Website](https://img.shields.io/badge/🌐_Live-Talx-blueviolet?style=for-the-badge)](https://talx-full-stack-frontend.vercel.app/)
 [![GitHub stars](https://img.shields.io/github/stars/MeAkash77/Talx-Full-Stack-Frontend?style=for-the-badge&logo=github&color=gold)](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/MeAkash77/Talx-Full-Stack-Frontend?style=for-the-badge&logo=github&color=blue)](https://github.com/MeAkash77/Talx-Full-Stack-Frontend/network)
