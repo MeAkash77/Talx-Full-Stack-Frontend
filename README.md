@@ -1,5 +1,6 @@
 <div align="center">
-# 🌟 Talx – The AI-Powered Job Portal 🚀
+
+  # 🌟 Talx – The AI-Powered Job Portal 🚀
 Talx – The AI-Powered Job Portal is a full-stack web application built to transform how individuals search, apply, and hire in the modern job market. Designed with both job seekers and recruiters in mind, Talx combines advanced technologies like AI-powered resume analysis, real-time news updates, and interactive chat assistance to create a dynamic and intelligent career platform.
 
 <div align="center">
