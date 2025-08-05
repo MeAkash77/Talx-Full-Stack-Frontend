@@ -103,7 +103,7 @@
 #### Frontend  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/aakashdixit22/talx-frontend.git  
+   git clone https://github.com/MeAkash77/Talx-Full-Stack-Frontend.git
    cd talx-frontend  
    ```  
 2. Install dependencies:  
