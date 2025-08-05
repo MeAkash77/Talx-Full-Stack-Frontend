@@ -104,26 +104,6 @@ git clone https://github.com/MeAkash77/Talx-Full-Stack-Frontend.git
 cd talx-frontend
 npm install
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🌟 Talx - The AI-Powered Job Portal 🚀  
 🌐 [Visit Talx](https://talx-full-stack-frontend.vercel.app/)  
 
