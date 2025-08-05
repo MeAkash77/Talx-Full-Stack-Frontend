@@ -1,4 +1,112 @@
 # 🌟 Talx - The AI-Powered Job Portal 🚀  
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)](https://talx-full-stack-frontend.vercel.app/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/aakashdixit22/talx-frontend/blob/main/LICENSE)  
+[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev)  
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen?logo=node.js)](https://nodejs.org)  
+[![Flask](https://img.shields.io/badge/AI%20Backend-Flask-blue?logo=flask)](https://flask.palletsprojects.com/)  
+
+🌐 **Live App**: [https://talx-full-stack-frontend.vercel.app](https://talx-full-stack-frontend.vercel.app)  
+
+**Talx** is a full-stack, AI-powered job portal that connects recruiters and applicants through intelligent automation, streamlined workflows, and smart career tools. Explore job listings, apply seamlessly, post jobs, and leverage AI to analyze resumes and get career insights — all in one place.
+
+---
+
+## ✨ Features  
+
+### 🔧 Core Functionalities
+- 📝 **Post, Edit & Manage Jobs**  
+- 📄 **Apply with Resume & Cover Letter Uploads**  
+- 📊 **Export Applications as Excel Sheets**  
+- 👨‍💼 **Recruiter Dashboard for Applicant Management**  
+
+### 💡 AI-Powered Features
+- 🤖 **Chat Assistant (LLaMA 3.3 via Groq)**  
+- 📄 **ResumeAI (Gemini Flash 2.0)**  
+- 📰 **BulletinBuzz (Live News from NewsAPI)**  
+
+### 🎨 UI & UX
+- ⚡ Powered by **Vite + React + TailwindCSS**  
+- 🎞️ Beautiful animations using **Framer Motion**  
+- 🧩 Markdown, Excel export, and Blob for downloads  
+- 🧑‍💻 Fully responsive design  
+
+---
+
+## 🖼️ Preview Gallery
+
+| Homepage & Explore Jobs | ResumeAI in Action |
+|:------------------------:|:------------------:|
+| ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_1.png?raw=true) | ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/ResumeAI_GIF.gif?raw=true) |
+
+| My Jobs & Edit Modal | BulletinBuzz & Chat Assistant |
+|:--------------------:|:------------------------------:|
+| ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_2.png?raw=true) | ![](https://github.com/aakashdixit22/talx-frontend/blob/main/public/demo/IMG_3.png?raw=true) |
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+- ⚛️ **React** + **Vite**  
+- 🎨 **Tailwind CSS**  
+- 🔀 **Framer Motion** (animations)  
+- 📥 **Blob**, **XLSX**, **Markdown Renderer**  
+- 🌍 Deployed via **Vercel**
+
+### 🖥️ Backend  
+- 🟩 **Node.js + Express**  
+- 🍃 **MongoDB + Mongoose**  
+- 🔐 **JWT & Bcrypt**  
+- 📤 **Multer** (uploads)  
+- ✉️ **NodeMailer**  
+- 📰 **NewsAPI Integration**  
+- 🕒 **Node-Cron** (server uptime pings)
+
+### 🧠 AI Backend  
+- 🐍 **Flask (Python)**  
+- 🧠 **LLaMA 3.3 via Groq API**  
+- 🤖 **Gemini 2.0 Flash (Google AI)**  
+- ⚡ Streaming & Fast AI responses  
+
+---
+
+## ⚙️ Installation & Setup  
+
+### 🔧 Prerequisites  
+- Node.js  
+- MongoDB  
+- Python 3.x  
+
+---
+
+### 💻 Frontend
+
+```bash
+git clone https://github.com/MeAkash77/Talx-Full-Stack-Frontend.git
+cd Talx-Full-Stack-Frontend
+npm install
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 🌟 Talx - The AI-Powered Job Portal 🚀  
 🌐 [Visit Talx](https://talx-full-stack-frontend.vercel.app/)  
 
 **Talx** is an innovative web application designed to streamline job searching, posting, and career guidance. It serves as a powerful platform for job posters, applicants, and individuals seeking career insights. With a modern, responsive design and AI-driven functionalities, Talx offers an enhanced user experience tailored for today's job market.  
